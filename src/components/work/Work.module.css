@@ -1,0 +1,18 @@
+.workBlock {
+    height: 30vh;
+    background-color: #a9a3a3;
+    border: 1px solid;
+}
+
+.workContainer {
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+button {
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    height: 50px;
+    width: 150px;
+}
