@@ -1,5 +1,5 @@
 .project {
-    width: 250px;
+    width: 450px;
     background-color: #b0ffff;
     display: flex;
     flex-direction: column;
@@ -10,6 +10,10 @@
 img {
     width: 100%;
     background-color: #668ac5;
+}
+
+img:hover {
+    opacity: 0.5;
 }
 
 .description {

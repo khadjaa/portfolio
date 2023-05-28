@@ -12,7 +12,8 @@ export const Projects = () => {
             <div className={`${styleContainer.container} ${styles.projectsContainer}`}>
                 <h2 className={styles.projectsTitle}>My Projects</h2>
                 <div className={styles.projects}>
-                    <Project title={'1'} description={lorem}/>
+                    <Project title={'SELF-ORDER'} description={lorem}/>
+                    <Project title={'TODO'} description={lorem}/>
                 </div>
             </div>
         </div>
