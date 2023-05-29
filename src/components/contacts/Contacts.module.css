@@ -9,6 +9,10 @@
     justify-content: space-around;
 }
 
+.contactsTitle {
+    background-color: #b0ffff;
+}
+
 .form {
     height: 400px;
     padding: 0;
@@ -20,15 +24,13 @@
 }
 
 .form input {
-    border: 1px solid #be8027;
     box-sizing: border-box;
-    display: inline-block;
     padding: 15px 20px;
     width: 100%;
 }
 
 .form textarea {
-    padding: 120px 20px;
+    height: 250px;
 }
 
 button {

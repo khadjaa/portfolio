@@ -3,4 +3,9 @@
     display: flex;
     justify-content: space-between;
     width: 300px;
+    background-color: #b0ffff;
+}
+
+.navContainer {
+    justify-content: end;
 }

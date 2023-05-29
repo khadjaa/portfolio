@@ -9,10 +9,11 @@
     justify-content: space-around;
 }
 
+.workTitle {
+    background-color: #b0ffff;
+}
+
 button {
-    border: none;
-    font-size: 20px;
-    font-weight: 700;
     height: 50px;
     width: 150px;
 }

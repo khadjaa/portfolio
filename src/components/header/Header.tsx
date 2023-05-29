@@ -4,8 +4,8 @@ import {Navigation} from "../nav/Nav";
 
 export const Header = () => {
     return (
-        <div className={styles.header}>
-            <Navigation/>
-        </div>
+            <div className={styles.header}>
+                <Navigation/>
+            </div>
     );
 };

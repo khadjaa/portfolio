@@ -9,7 +9,9 @@ type ProjectPropsType = {
 export const Project = (props: ProjectPropsType) => {
     return (
         <div className={styles.project}>
-            <img src="https://ru.react.js.org/logo-og.png" alt="project"/>
+            <div className={styles.imgContainer}>
+                <a className={styles.projectButton}>Go</a>
+            </div>
             <h3>{props.title}</h3>
             <span className={styles.description}>
                 {props.description}

@@ -8,13 +8,21 @@
     padding: 10px;
 }
 
-img {
+.imgContainer {
     width: 100%;
-    background-color: #668ac5;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://ru.react.js.org/logo-og.png");
+    background-size: cover;
+    background-position: center;
 }
 
-img:hover {
-    opacity: 0.5;
+.projectButton {
+    width: 30%;
+    background-color: #5b6e6e;
+    color: #faf8cf;
 }
 
 .description {
