@@ -8,9 +8,9 @@ export const Footer = () => {
             <div className={`${styleContainer.container} ${styles.footerContainer}`}>
                 <h2 className={styles.footerTitle}>Islam Ismoilov</h2>
                 <div className={styles.contacts}>
-                    <a href="#">gitHub</a>
-                    <a href="#">LinkedIn</a>
-                    <a href="#">Telegram</a>
+                    <a href="#">git</a>
+                    <a href="#">Link</a>
+                    <a href="#">Tg</a>
                     <a href="#">Vk</a>
                 </div>
                 <span>
